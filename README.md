@@ -1,0 +1,1 @@
+Este repositório contém um programa SQL simples desenvolvido para gerenciar um sistema de mercado. Ele utiliza tabelas para armazenar e organizar informações de clientes, mercadorias e vendas, demonstrando consultas práticas com o uso de JOIN.
